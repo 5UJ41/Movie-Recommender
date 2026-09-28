@@ -1,0 +1,5 @@
+# only needed to (re)build the artifacts locally, not for deployment
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+nltk>=3.8

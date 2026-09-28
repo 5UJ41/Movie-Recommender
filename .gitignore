@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+data/
+__pycache__/
+venv/
+.ipynb_checkpoints/
+README.md
